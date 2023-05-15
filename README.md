@@ -18,4 +18,4 @@ We made it a PWA to give it better SEO,  for better accessibility, and for the f
 We decided to use sanity as our backend. We wanted our client to be able to easily change the content of the web page and get involved in what to display. They can change all the images, text sections and their fonts/sizes. 
 
 View it live:
-https://takbaren.netlify.app/
+https://takbarenvisby.se/
